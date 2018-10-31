@@ -131,7 +131,7 @@
       <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
       <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
       <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    </edit-config>
+    </config-file>
     <!-- Java Library Sources -->
     <!-- sources for package: com.nordnetab.chcp.config -->
     <source-file src="src/android/src/com/nordnetab/chcp/main/config/ApplicationConfig.java" target-dir="src/com/nordnetab/chcp/main/config"/>
